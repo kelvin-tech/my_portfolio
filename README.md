@@ -1,2 +1,1 @@
-# my_portfolio
-portfolio
+# portfolio by Kelvin oduro Aboagye
